@@ -64,7 +64,7 @@ function buildCharts(sample) {
     const bubbleLayout = {
       title: 'Bacteria Cultures per Sample',
       xaxis: { title: 'OTU ID' },
-      yaxis: { title: 'Sample Values' },
+      yaxis: { title: 'Number of Bacteria' },
       hovermode: 'closest'
     };
 
@@ -89,7 +89,7 @@ function buildCharts(sample) {
 
     const barLayout = {
       title: 'Top 10 Bacteria Cultures Found',
-      xaxis: { title: 'Sample Values' },
+      xaxis: { title: 'Number of Bacteria' },
       yaxis: { title: 'OTU ID' }
     };
 
