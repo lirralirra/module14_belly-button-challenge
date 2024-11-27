@@ -1,12 +1,12 @@
 # module_14_belly-button-challenge
 
 
-The **app.js** is to 
+The **app.js** is to a):
 
 read in **samples.json** from the URL
-https://static.bc-edx.com/data/dla-1-2/m14/lms/starter/samples.json and then to
+https://static.bc-edx.com/data/dla-1-2/m14/lms/starter/samples.json and to b):
 
-display:
+display
 
 1. the top 10 bacteria cultures found in berry button.
 
