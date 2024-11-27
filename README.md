@@ -1,10 +1,14 @@
 # module_14_belly-button-challenge
 
 
-The **app.js** is to a):
+The **app.js** is to 
+
+a):
 
 read in **samples.json** from the URL
-https://static.bc-edx.com/data/dla-1-2/m14/lms/starter/samples.json and to b):
+https://static.bc-edx.com/data/dla-1-2/m14/lms/starter/samples.json and to 
+
+b):
 
 display
 
