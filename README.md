@@ -16,7 +16,7 @@ b):display
 
 3. an individual's demographic information.
 
-**interactive**  - Update all the plots when a new sample (test subject ID No) is selected
+**interactive**  - Update all the plots when a new sample (test subject ID No) is selected 
 
 
 
